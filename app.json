@@ -1,0 +1,8 @@
+{
+  "build": 47,
+  "date": "2026-11-13T21:00:38.265Z",
+  "apk": {
+    "platform": "https://raw.githubusercontent.com/mohamedhassan00720-stack/mechatronic-updates/main/apk/Mechatronic-Platform.apk",
+    "driver": "https://raw.githubusercontent.com/mohamedhassan00720-stack/mechatronic-updates/main/apk/Mechatronic-Driver.apk"
+  }
+}
