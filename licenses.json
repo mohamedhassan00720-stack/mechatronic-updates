@@ -1,14 +1,19 @@
 {
  "v": 2,
- "seq": 1794502895,
+ "seq": 1794646890,
  "enforce": false,
  "items": {
+  "13d1e3bd382766ebbbad9ea33f347823": {
+   "e": "2027-02-12",
+   "r": 0,
+   "t": "ai,ecu,faults,guide,keygen"
+  },
   "91de021f7a3117ea4c26648c5561219e": {
    "e": "2028-12-09",
    "r": 0,
    "t": "FULL"
   }
  },
- "sig": "xliBo2SA2Cf4YY9F8LW85bzBaAHhJ1H5V8uwJd4VTVVz8gDMj_fabsm8cKlFqG7rSKrnCW0RY14gkiIYOsV5BA",
- "updated": "2026-11-12T17:01:35.433Z"
+ "sig": "EkgSoTRJHTweWcE3IfV8-1gfbp8Jd6aKm-pvv8dRSTMQcyYqeZ6iM-phJ2FhrAOW0cRem3rKk6HDm9vcP1TcCQ",
+ "updated": "2026-11-14T09:01:30.734Z"
 }
