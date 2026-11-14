@@ -1,10 +1,15 @@
 {
  "v": 2,
- "seq": 1794647406,
+ "seq": 1794648374,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
    "e": "2027-02-12",
+   "r": 0,
+   "t": "ai,ecu,faults,guide,keygen"
+  },
+  "32600ceff7586eb4782dcff1d40be9e1": {
+   "e": "2027-05-13",
    "r": 0,
    "t": "ai,ecu,faults,guide,keygen"
   },
@@ -14,6 +19,6 @@
    "t": "FULL"
   }
  },
- "sig": "A27yiXraNGtSG8LcBdmNrEdrX099MNIH7ae80lMQu8enHnSmA-TmIq_g1DZ6vPVqvbFzf8ewZOsVVlaUdeMXAw",
- "updated": "2026-11-14T09:10:06.937Z"
+ "sig": "oYjVMHijoEb_zLnoXdIKvP9yWhz3hAE53uYdz5bn3d4tnLk3Gmfd0wSiDsdVzL3x2T04hfdVMyWs_AybOHMcDg",
+ "updated": "2026-11-14T09:26:14.108Z"
 }
