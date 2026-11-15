@@ -1,6 +1,6 @@
 {
  "v": 2,
- "seq": 1794759395,
+ "seq": 1794759400,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
@@ -29,6 +29,6 @@
    "t": "faults,guide"
   }
  },
- "sig": "B0_MV5a60d-VPff0T0J8qd5G9oROdopcDXnv91Muier8_DbfY3JJXAKR6JdRdfiFvJs0eG70QnWvxtNBdQetCg",
- "updated": "2026-11-15T16:16:35.722Z"
+ "sig": "QrxkVOXHLKvjvuTMgmH3sQ-LYZFjgCfbBjVdfLJ469bG8Mi8dLlyxCyI5jSZnHefgY20PRJp0SuNqtUpM7EWBw",
+ "updated": "2026-11-15T16:16:40.628Z"
 }
