@@ -1,12 +1,17 @@
 {
  "v": 2,
- "seq": 1794832307,
+ "seq": 1794832327,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
    "e": "2027-02-12",
    "r": 0,
    "t": "ai,ecu,faults,guide,keygen"
+  },
+  "2e3cdc2c76759baad77ee792c7f4ade3": {
+   "e": "2027-02-14",
+   "r": 0,
+   "t": "FULL"
   },
   "32600ceff7586eb4782dcff1d40be9e1": {
    "e": "2027-05-13",
@@ -28,6 +33,6 @@
    "t": "faults,guide"
   }
  },
- "sig": "eXYK05C5ohTI3f8IYVzWOi14PsCMAxVzF55aRXtGlcR6f5nCaiWI_vQBBVRuGpUL1YKgCOVZUhiVs1YkyXGGBA",
- "updated": "2026-11-16T12:31:47.851Z"
+ "sig": "K3nnSVhRxr-FonmowjfkAXMHzzuj6R6mjsy6G7DyVRHcFqOw8flxZoGqlSgzWaN5Pa009MzIhWI5rBqVltzLDg",
+ "updated": "2026-11-16T12:32:07.084Z"
 }
