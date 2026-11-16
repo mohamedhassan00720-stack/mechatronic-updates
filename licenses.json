@@ -1,6 +1,6 @@
 {
  "v": 2,
- "seq": 1794832300,
+ "seq": 1794832307,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
@@ -14,9 +14,8 @@
    "t": "ai,ecu,faults,guide,keygen"
   },
   "72c05a3c2083b5b9ffa42108934fe14d": {
-   "e": "2027-05-14",
-   "r": 1,
-   "t": "ai,ecu,faults,guide,keygen"
+   "e": "2026-11-16",
+   "r": 1
   },
   "91de021f7a3117ea4c26648c5561219e": {
    "e": "2028-12-09",
@@ -29,6 +28,6 @@
    "t": "faults,guide"
   }
  },
- "sig": "NrIC3zgB4B1XF7CDTededGJHyZzZe8gYbGj7uiCRuRVu6_3Cxt-sLrfH8MJOURAyl41XeXV5Fpbwlq7uN1t9Aw",
- "updated": "2026-11-16T12:31:40.914Z"
+ "sig": "eXYK05C5ohTI3f8IYVzWOi14PsCMAxVzF55aRXtGlcR6f5nCaiWI_vQBBVRuGpUL1YKgCOVZUhiVs1YkyXGGBA",
+ "updated": "2026-11-16T12:31:47.851Z"
 }
