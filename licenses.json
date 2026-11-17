@@ -1,6 +1,6 @@
 {
  "v": 2,
- "seq": 1794840705,
+ "seq": 1794934289,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
@@ -23,8 +23,13 @@
    "r": 0,
    "t": "ai,ecu,faults,guide,keygen"
   },
+  "607b7f4cb6eb62ff5c944eb43f234b54": {
+   "e": "2027-11-17",
+   "r": 0,
+   "t": "FULL"
+  },
   "72c05a3c2083b5b9ffa42108934fe14d": {
-   "e": "2026-11-16",
+   "e": "2026-11-17",
    "r": 1
   },
   "91de021f7a3117ea4c26648c5561219e": {
@@ -38,6 +43,6 @@
    "t": "faults,guide"
   }
  },
- "sig": "aosvLrFPxBq8tDAoEUif-FqLQTLCPKrimAUN545HNdzDvglCHvOUSq8-u6_jS8GLduISTrnupfe88OrFta8HDA",
- "updated": "2026-11-16T14:51:45.988Z"
+ "sig": "C2QTP9uWU-SV54M6IEEGw7nkrAR_TgMBYBmVI6vHXOellgwu-0z73l8dceHrgMLhKzEwzuHjXlth8I3Yr3LhDQ",
+ "updated": "2026-11-17T16:51:29.999Z"
 }
