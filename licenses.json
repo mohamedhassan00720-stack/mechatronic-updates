@@ -1,6 +1,6 @@
 {
  "v": 2,
- "seq": 1794934289,
+ "seq": 1794991310,
  "enforce": false,
  "items": {
   "13d1e3bd382766ebbbad9ea33f347823": {
@@ -29,11 +29,16 @@
    "t": "FULL"
   },
   "72c05a3c2083b5b9ffa42108934fe14d": {
-   "e": "2026-11-17",
+   "e": "2026-11-18",
    "r": 1
   },
   "91de021f7a3117ea4c26648c5561219e": {
    "e": "2028-12-09",
+   "r": 0,
+   "t": "FULL"
+  },
+  "a957b6cc05bb80124a6f401809e7f812": {
+   "e": "2028-11-17",
    "r": 0,
    "t": "FULL"
   },
@@ -43,6 +48,6 @@
    "t": "faults,guide"
   }
  },
- "sig": "C2QTP9uWU-SV54M6IEEGw7nkrAR_TgMBYBmVI6vHXOellgwu-0z73l8dceHrgMLhKzEwzuHjXlth8I3Yr3LhDQ",
- "updated": "2026-11-17T16:51:29.999Z"
+ "sig": "n6EzEm_FuqCRIQih9cDbf4BUvNE1rRroDr0-ZRboPCYX1-Cq3Zmag7iZ0qGAZsM5wfaTkSpoahwGYoCYBXQSBQ",
+ "updated": "2026-11-18T08:41:50.507Z"
 }
